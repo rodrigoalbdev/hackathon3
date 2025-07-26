@@ -1,0 +1,136 @@
+Excelente! Vou reformular o Canvas MVP Spec Lite focando nessa abordagem de DNA evolutivo da persona. Isso é muito mais poderoso - criar um perfil que evolui continuamente:
+Canvas MVP Spec Lite - PartnerSync AI (DNA Evolutivo)
+1. Segmento de clientes
+Para quem essa solução está sendo criada?
+Founders e profissionais em busca ativa de sócios/co-founders
+
+Empreendedores seriais que já tiveram experiências ruins
+Profissionais sênior saindo de corporações para empreender
+Founders solo que precisam do "match perfeito"
+Persona Hero: "Marina, 32, product manager do iFood, quer encontrar um CTO que complemente suas habilidades mas teve 2 experiências ruins com sócios"
+
+2. Proposta de valor
+Qual valor ou benefício a solução entrega?
+"Seu DNA profissional evolui a cada interação - quanto mais você usa, melhor o sistema entende quem é seu sócio ideal"
+
+Sai do perfil estático para um perfil vivo
+Aprende com seus padrões de comunicação
+Melhora recomendações com o tempo
+Previne repetir erros do passado
+
+3. Formato do MVP (protótipo)
+Qual o tipo de entrega?
+Sistema de Perfilamento Evolutivo com 3 fases:
+FASE 1 - DNA Inicial (MVP Focus)
+
+Assessment inicial cria DNA base (20 min)
+Visualização do perfil em 6 dimensões
+Primeiras recomendações de match
+
+FASE 2 - Evolução via Chat
+
+Chatbot companion que aprende seu estilo
+Cada conversa refina o perfil
+Ajusta recomendações em tempo real
+
+FASE 3 - Match Inteligente
+
+Sugestões de perfis complementares
+Simulação de dinâmicas antes de conhecer
+Predição de pontos de atrito
+
+4. Aplicação da IA
+Onde a IA entra na solução? O que ela executa ou transforma?
+IA como "Personal Profiler" que:
+
+Cria DNA inicial: Analisa respostas + LinkedIn + forma de escrever
+Evolui continuamente: Cada mensagem no chat adiciona data points
+Aprende padrões: "Você é 40% mais assertivo em discussões técnicas"
+Prediz compatibilidade: "Este perfil complementa suas fraquezas em vendas"
+Gera insights evolutivos: "Seu estilo de liderança mudou 15% em 3 meses"
+
+5. Fluxo funcional (input > IA > output)
+FASE 1 - CRIAÇÃO DO DNA (Dia 1)
+INPUT:
+├── Assessment adaptativo (15-20 min)
+├── Análise LinkedIn (opcional)
+├── 3 situações-problema reais
+└── Voz/vídeo curto (tom e energia)
+
+↓ IA PROCESSING:
+├── NLP extrai traços linguísticos
+├── Modelo cria DNA em 6 dimensões
+├── Estabelece baseline comportamental
+└── Gera perfil visual interativo
+
+OUTPUT:
+└── DNA Card com:
+    ├── Perfil visual hexagonal
+    ├── Strengths & Gaps
+    ├── Tipo de sócio ideal (hipótese)
+    └── Chat companion ativado
+
+FASE 2 - EVOLUÇÃO CONTÍNUA (Dias 2-90)
+INPUT:
+├── Conversas diárias no chat
+├── Reações a sugestões
+├── Feedback sobre matches
+└── Situações reais compartilhadas
+
+↓ IA LEARNING:
+├── Ajusta pesos do DNA
+├── Identifica padrões ocultos
+├── Refina perfil ideal de sócio
+└── Melhora acurácia preditiva
+
+OUTPUT:
+└── DNA Evolution Dashboard:
+    ├── "Seu perfil mudou 12% este mês"
+    ├── "Novo insight descoberto"
+    ├── "Match compatibility: 87%"
+    └── Alertas de auto-sabotagem
+6. Ferramentas utilizadas
+Stack para construir em 4 horas:
+Versão Demonstrável (No/Low-code):
+
+Base: Bubble.io (lógica + interface)
+Assessment: Tally.so (formulário inteligente)
+IA: OpenAI API (GPT-4 para análise)
+Chat: Voiceflow ou Botpress
+Visualização: Flourish para DNA hexagonal
+Dados: Airtable + Make.com
+
+Versão Código (se tiver dev):
+javascript// Stack simplificado
+- Frontend: Next.js + Tailwind + Recharts
+- Chat: Vercel AI SDK
+- Backend: Supabase + Edge Functions  
+- IA: OpenAI + LangChain
+- Deploy: Vercel (10 min)
+7. Link ou print do MVP
+Evidências para demonstrar:
+Entregáveis em 4 horas:
+
+Landing explicativa: partnersync.carrd.co
+Demo do DNA Card: Figma interativo ou HTML
+Vídeo conceito (2 min): Mostrando evolução do perfil
+Chat funcional básico: Botpress com 5 fluxos
+
+Screenshots essenciais:
+
+Tela 1: Assessment inicial
+Tela 2: DNA Card hexagonal
+Tela 3: Chat aprendendo padrão
+Tela 4: Evolução do perfil em 30 dias
+Tela 5: Match recomendado com %
+
+Diferencial do Approach Evolutivo:
+Por que isso é revolucionário:
+
+Sai do estático: Não é mais um teste pontual
+Aprende com uso real: Cada interação melhora
+Previne viés: Pessoa pode achar que quer X, mas comportamento mostra Y
+Companion de jornada: Não abandona após o match
+
+Exemplo prático:
+"Marina fez o teste e indicou querer um sócio 'hands-on técnico'. Após 30 dias de chat, o sistema identificou que ela na verdade se frustra com detalhes técnicos e precisa de um CTO mais estratégico. O DNA evoluiu e as recomendações mudaram."
